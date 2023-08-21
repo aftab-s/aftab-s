@@ -39,7 +39,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/aftab_mehrab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aftab_mehrab" height="30" width="40" /></a> <a href="https://www.linkedin.com/in/aftab-s/" target="blank"><img align="center" src="linkedin.png" alt="https://www.linkedin.com/in/aftab-s/" height="30" width="30" /></a>
+<a href="https://twitter.com/aftab_mehrab" target="blank"><img align="center" src="twitterX.png" alt="aftab_mehrab" height="30" width="30" /></a> <a href="https://www.linkedin.com/in/aftab-s/" target="blank"><img align="center" src="linkedin.png" alt="https://www.linkedin.com/in/aftab-s/" height="30" width="30" /></a>
 <a href="https://www.instagram.com/devon_clive__/" target="blank"><img align="center" src="instagram.png" alt="https://www.instagram.com/devon_clive__/" height="30" width="30" /></a>
 </p>
 
