@@ -1,7 +1,7 @@
 ![LinkedIn Banner](https://github.com/aftab-s/aftab-s/assets/90192423/f95e7821-7bad-423a-9577-a5e807fa2d56)
 
 <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=aftab-s&label=Profile%20views&color=0e75b6&style=flat" alt="aftab-s" />
+    <img src="https://komarev.com/ghpvc/?username=aftab-s&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="aftab-s" />
 </p>
 
 <h3 align="center">I'm just a passionate, optimistic and artistic minded guy trying out new stuff, who also happens to get his hands on Cloud, Networking, DevOps and Cybersecurity.</h3>
