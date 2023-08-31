@@ -1,6 +1,6 @@
 ![LinkedIn Banner](https://github.com/aftab-s/aftab-s/assets/90192423/f95e7821-7bad-423a-9577-a5e807fa2d56)
 
-<p align="left">
+<p align="center">
     <img src="https://komarev.com/ghpvc/?username=aftab-s&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="aftab-s" />
 </p>
 
