@@ -27,7 +27,7 @@
   <table style="width: 100%;">
     <tr>
       <td align="left">
-        <img src="https://github-readme-stats.vercel.app/api?username=aftab-s&show_icons=true&theme=transparent" alt="aftab-s" />
+        <img src="https://github-readme-stats.vercel.app/api?username=aftab-s&theme=transparent" alt="aftab-s" />
       </td>
       <td align="right">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=aftab-s&theme=dark" alt="aftab-s" />
