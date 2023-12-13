@@ -2,6 +2,8 @@
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=aftab-s&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="aftab-s" />
+    <img src="https://img.shields.io/github/followers/aftab-s?logo=GitHub&style=for-the-badge" alt="aftab-s" />
+    <img src="https://img.shields.io/github/stars/aftab-s?style=for-the-badge&logo=star&label=Stars&color=%23C900FF" alt="aftab-s" />
 </p>
 
 <h3 align="center">I'm just a passionate, optimistic and artistic minded guy trying out new stuff, who also happens to get his hands on Cloud, Networking, DevOps and Cybersecurity.</h3>
@@ -27,10 +29,10 @@
   <table style="width: 100%;">
     <tr>
       <td align="left">
-        <img src="https://github-readme-stats.vercel.app/api?username=aftab-s&theme=transparent" alt="aftab-s" />
+        <img src="https://github-readme-stats.vercel.app/api?username=aftab-s&show_icons=true&count_private=true&theme=radical&hide=stars" alt="aftab-s" />
       </td>
       <td align="right">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=aftab-s&theme=dark" alt="aftab-s" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=aftab-s&theme=dark&count_private=true&theme=radical" alt="aftab-s"  hight="50px" />
       </td>
     </tr>
   </table>
