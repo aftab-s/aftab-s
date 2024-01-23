@@ -12,7 +12,7 @@
 
 - 👨‍💻 Find my portfolio at<a href="https://portfolio.aftabs.co"> portfolio.aftabs.co </a>
 
-- 💬 Ask me about **Networking, Designing (could be websites, 3D designs or just random posters)**
+- 💬 Ask me about **DevOps, Networking, Design (could be websites, 3D designs or just random posters)**
 
 - 📫 Reach me through **aftab.mehrab@gmail.com**
 
