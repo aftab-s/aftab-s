@@ -43,6 +43,7 @@
 <p align="left">
 <a href="https://twitter.com/aftab_mehrab" target="blank"><img align="center" src="twitterX.png" alt="aftab_mehrab" height="30" width="30" /></a> <a href="https://www.linkedin.com/in/aftab-s/" target="blank"><img align="center" src="linkedin.png" alt="https://www.linkedin.com/in/aftab-s/" height="30" width="30" /></a>
 <a href="https://www.instagram.com/devon_clive__/" target="blank"><img align="center" src="instagram.png" alt="https://www.instagram.com/devon_clive__/" height="30" width="30" /></a>
+<a href="https://hashnode.com/@aftabs" target="blank"><img align="center" src="instagram.png" alt="https://hashnode.com/@aftabs" height="30" width="30" /></a>
 </p>
 
 ![GitHub GIF](https://github.com/aftab-s/aftab-s/blob/bdd229b271652936e0a6fd884d0d231de3521723/Github%20GIF.gif)
