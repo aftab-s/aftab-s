@@ -10,7 +10,9 @@
 
 - 🌱 I’m currently learning **CI/CD Pipelines, Advanced Networking, Penetration Testing, and more.**
 
-- 👨‍💻 Find my portfolio at<a href="https://portfolio.aftabs.co"> portfolio.aftabs.co </a>
+- 👨‍💻 Find my portfolio at <a href="https://portfolio.aftabs.co"> portfolio.aftabs.co </a>
+
+- 📖 Fan of technical blogs? Here's mine <a href="https://blogs.aftabs.co"> blogs.aftabs.co </a>
 
 - 💬 Ask me about **DevOps, Networking, Design (could be websites, 3D designs or just random posters)**
 
