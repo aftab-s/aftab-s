@@ -14,9 +14,9 @@
 
 - 📖 Fan of technical blogs? Here's mine <a href="https://blogs.aftabs.co"> blogs.aftabs.co </a>
 
-- 💬 Ask me about **DevOps, Networking, Design (could be websites, 3D designs or just random posters)**
+- 💬 Ask me about **DevOps, Observability, Kubernetes, Networking, Design (could be websites, 3D designs or just random posters)**
 
-- 📫 Reach me through **aftab.mehrab@gmail.com**
+- 📫 Reach me through <a href="https://www.linkedin.com/in/aftab-s/"> my LinkedIn </a>
 
 - ⚡ Fun fact about me is that **I make serious things funny. (I know not too creative)**
 
