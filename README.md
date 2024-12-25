@@ -1,4 +1,5 @@
-![Github Banner](Github-Banner.png)
+![Linkedin Banner 2024 10](https://github.com/user-attachments/assets/d5fe85c8-c589-4248-ac5a-248c71f001fa)
+
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=aftab-s&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="aftab-s" />
