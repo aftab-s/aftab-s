@@ -1,4 +1,4 @@
-![Linkedin Banner 2024 10](https://github.com/user-attachments/assets/d5fe85c8-c589-4248-ac5a-248c71f001fa)
+![Linkedin Banner 2025 02](https://github.com/user-attachments/assets/38cb7a56-681b-43e4-8390-f32777d4c504)
 
 
 <p align="center">
@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning **CI/CD Pipelines, Advanced Networking, Penetration Testing, and more.**
 
-- 👨‍💻 Find my portfolio at <a href="https://portfolio.aftabs.co"> portfolio.aftabs.co </a>
+- 👨‍💻 Find my portfolio at : <a href="https://portfolio.aftabs.me"> portfolio</a>
 
-- 📖 Fan of technical blogs? Here's mine <a href="https://blogs.aftabs.co"> blogs.aftabs.co </a>
+- 📖 Fan of technical blogs? Here's mine : <a href="https://aftabs.hashnode.dev"> blogs </a>
 
-- 💬 Ask me about **DevOps, Observability, Kubernetes, Networking, Design (could be websites, 3D designs or just random posters)**
+- 💬 Ask me about **DevOps, Cloud, Observability, Networking, Design (could be websites, 3D designs or just random posters)**
 
 - 📫 Reach me through <a href="https://www.linkedin.com/in/aftab-s/"> my LinkedIn </a>
 
