@@ -64,7 +64,14 @@ Over the years, I have shared what I learn through blogs and talks. I am deeply 
   - Kerala Databricks User Group
 - **Contributor**: FOSS United & CNCF/CNCG Kochi
 - **Conference Speaker**: Regularly presenting at cloud-native and observability events.
-  - 🎤 **[View my slides & presentation materials](https://github.com/aftab-s/my-talks)**
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/aftab-s/my-talks">
+    <img src="https://socialify.git.ci/aftab-s/my-talks/image?font=JetBrains+Mono&language=1&name=1&owner=1&pattern=Transparent&stargazers=1&theme=Dark" alt="My Talks Repo" width="400"/>
+  </a>
+</div>
 
 ---
 
