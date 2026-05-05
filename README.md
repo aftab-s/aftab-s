@@ -1,52 +1,84 @@
 ![Linkedin Banner 2025 02](https://github.com/user-attachments/assets/38cb7a56-681b-43e4-8390-f32777d4c504)
 
-
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=aftab-s&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="aftab-s" />
-    <img src="https://img.shields.io/github/followers/aftab-s?logo=GitHub&style=for-the-badge" alt="aftab-s" />
-    <img src="https://img.shields.io/github/stars/aftab-s?style=for-the-badge&logo=star&label=Stars&color=%23C900FF" alt="aftab-s" />
-</p>
-
-<h3 align="center">I'm just a passionate, optimistic and artistic minded guy trying out new stuff, who also happens to get his hands on Cloud, Networking, DevOps and Cybersecurity.</h3>
-
-- 🌱 I’m currently learning **CI/CD Pipelines, Advanced Networking, Penetration Testing, and more.**
-
-- 👨‍💻 Find my portfolio at : <a href="https://portfolio.aftabs.me"> portfolio</a>
-
-- 📖 Fan of technical blogs? Here's mine : <a href="https://aftabs.hashnode.dev"> blogs </a>
-
-- 💬 Ask me about **DevOps, Cloud, Observability, Networking, Design (could be websites, 3D designs or just random posters)**
-
-- 📫 Reach me through <a href="https://www.linkedin.com/in/aftab-s/"> my LinkedIn </a>
-
-- ⚡ Fun fact about me is that **I make serious things funny. (I know not too creative)**
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="aws-logo.png" alt="aws" width="40" height="28"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="bash.png" alt="bash" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="grafana-original.svg" alt="prometheus" width="40" height="40"/> </a> <a href="https://prometheus.io" target="_blank" rel="noreferrer"> <img src="prometheus-original.svg" alt="prometheus" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="40"/> </a> </p>
-
-
-
-<details>
-<summary>Click to see profile status</summary>
-<div style="background-color: black; padding: 10px;">
-  <table style="width: 100%;">
-    <tr>
-      <td align="left">
-        <img src="https://github-readme-stats.vercel.app/api?username=aftab-s&show_icons=true&count_private=true&theme=radical&hide=stars" alt="aftab-s" />
-      </td>
-      <td align="right">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=aftab-s&theme=dark&count_private=true&theme=radical" alt="aftab-s"  hight="50px" />
-      </td>
-    </tr>
-  </table>
+<div align="center">
+  <h1>Hi there, I'm Aftab 👋</h1>
+  <h3>Software Engineer • Open Source Contributor • Technical Storyteller</h3>
 </div>
-</details>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/aftab_mehrab" target="blank"><img align="center" src="twitterX.png" alt="aftab_mehrab" height="30" width="30" /></a> <a href="https://www.linkedin.com/in/aftab-s/" target="blank"><img align="center" src="linkedin.png" alt="https://www.linkedin.com/in/aftab-s/" height="30" width="30" /></a>
-<a href="https://www.instagram.com/devon_clive__/" target="blank"><img align="center" src="instagram.png" alt="https://www.instagram.com/devon_clive__/" height="30" width="30" /></a>
-<a href="https://hashnode.com/@aftabs" target="blank"><img align="center" src="hashnode-icon-svgrepo-com.svg" alt="https://hashnode.com/@aftabs" height="25" width="25" /></a>
-</p>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aftab-s&theme=transparent" alt="GitHub Stats Profile Details" />
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+I work at the intersection of **DevOps, cloud-native systems, and observability**. What started as curiosity has slowly turned into a habit of building, breaking, fixing, and explaining things along the way.
+
+My background is in Electronics and Communication, which means I did not exactly take the straight road into DevOps. Somewhere along that detour, I found my rhythm working with modern cloud infrastructure. I enjoy understanding how systems behave under pressure and figuring out how to make them a little more reliable and a little less surprising.
+
+When I am not working, you will probably find me planning the next talk, thinking about a blog I should write, or having long conversations about tech, careers, or why something broke in production at the worst possible time.
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tempo-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+</div>
+
+---
+
+### 🏆 Certifications
+
+<div align="center">
+  <img src="https://img.shields.io/badge/CKA-Certified%20Kubernetes%20Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform%20Associate-HashiCorp-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/GitHub%20Foundations-Certified-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databricks%20Data%20Engineer%20Associate-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana%20Champion-Community-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+</div>
+
+---
+
+### 🎙️ Community & Speaking
+
+Over the years, I have shared what I learn through blogs and talks. I am deeply invested in the community, helping organize meetups and connecting with fellow engineers.
+
+- **Meetup Organizer**: 
+  - Grafana and Friends Kerala
+  - AWS UG Trivandrum
+  - Kerala Databricks User Group
+- **Contributor**: FOSS United & CNCF/CNCG Kochi
+- **Conference Speaker**: Regularly presenting at cloud-native and observability events.
+  - 🎤 **[View my slides & presentation materials](https://github.com/aftab-s/my-talks)**
+
+---
+
+### 🤝 Let's Connect
+
+<div align="center">
+  <a href="https://portfolio.aftabs.me"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/aftab-s/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/aftab_mehrab"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://aftabs.hashnode.dev"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
+</div>
+
+<br />
 
 ![GitHub GIF](https://github.com/aftab-s/aftab-s/blob/bdd229b271652936e0a6fd884d0d231de3521723/Github%20GIF.gif)
+
+
