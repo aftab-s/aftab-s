@@ -5,10 +5,6 @@
   <h3>Software Engineer • Open Source Contributor • Technical Storyteller</h3>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aftab-s&theme=transparent" alt="GitHub Stats Profile Details" />
-</div>
-
 ---
 
 ### 👨‍💻 About Me
